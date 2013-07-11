@@ -1,3 +1,6 @@
+                function osonajaxcomcent(comtag) {
+                	   
+                }
                 function osonajaxnetsend(command, fnam) {
                         var xhReq = new XMLHttpRequest();
                         xhReq.open("POST", "/", false);
